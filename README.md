@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# ChickenOS ai 🎯
 
 
 ## Basic Details
@@ -10,31 +10,31 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Joshua job - BMCe
+- Member 2: Adhith S - BMCe
 
 ### Project Description
-[2-3 lines about what your project does]
+ChickenOS AI is an absurdly over-engineered artificial intelligence system designed to analyze the emotional and behavioral characteristics of chickens.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+What a chicken is thinking.
+Whether a chicken is happy or angry.
+How suspicious a chicken actually is.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+ChickenOS AI is an unnecessarily advanced poultry intelligence system that uses AI and computer vision to investigate chickens as if they were highly classified government subjects.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages: Python, JavaScript, HTML, CSS
+- Frontend: React + Vite
+- Backend: Python + FastAPI
+-Development Tools: VS Code, Git, GitHub
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+No special hardware is required.
+
+The project runs on a standard laptop or desktop computer with a web browser.
 
 ### Implementation
 For Software:
@@ -42,24 +42,81 @@ For Software:
 [commands]
 
 # Run
-[commands]
+uvicorn main:app --reload
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](Add screenshot 1 here with proper name)<img width="613" height="366" alt="image" src="https://github.com/user-attachments/assets/75ffcd8f-2da7-4cd1-91bf-1d223b91d2c6" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](Add screenshot 2 here with proper name)<img width="608" height="371" alt="image" src="https://github.com/user-attachments/assets/628117a1-ade1-4a71-9c40-c33e72445adb" />
+
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](Add screenshot 3 here with proper name)<img width="598" height="371" alt="image" src="https://github.com/user-attachments/assets/7157ee70-3b57-42f1-be0d-4dfc60eeb277" />
+
 *Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+*Add caption explaining your workflow*                    🐔 CHICKENOS AI
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │    Upload Chicken │
+              │       Image         │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │    Image / AI       │
+              │    Analysis         │
+              └──────────┬──────────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+   ┌────────────┐ ┌────────────┐ ┌────────────┐
+   │    Mood    │ │    Person- │ │    Threat  │
+   │  Analysis  │ │   ality    │ │ Assessment │
+   └──────┬─────┘ └──────┬─────┘ └──────┬─────┘
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+              ┌─────────────────────┐
+              │    Poultry          │
+              │ Intelligence Engine │
+              └──────────┬──────────┘
+                         │
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
+ │    Criminal  │ │    Royalty   │ │    Thought   │
+ │   Profile    │ │   Detector   │ │  Translator  │
+ └──────┬───────┘ └──────┬───────┘ └──────┬───────┘
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+              ┌─────────────────────┐
+              │   Future Prediction │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │    Final Chicken    │
+              │      Report         │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │    Uselessness      │
+              │      Score™         │
+              └──────────┬──────────┘
+                         │
+                         ▼
+                  99.999% USELESS
 
 For Hardware:
 
@@ -82,16 +139,21 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+Uploading TINKERvid.mp4…
+
+
+[Add your demo video link here
+
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Joshua job : Designing, Coding, 
+- Adhith S : Documentation, ideation
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
