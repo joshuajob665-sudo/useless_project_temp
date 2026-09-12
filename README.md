@@ -62,61 +62,8 @@ For Software:
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*                    🐔 CHICKENOS AI
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │    Upload Chicken │
-              │       Image         │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │    Image / AI       │
-              │    Analysis         │
-              └──────────┬──────────┘
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-   ┌────────────┐ ┌────────────┐ ┌────────────┐
-   │    Mood    │ │    Person- │ │    Threat  │
-   │  Analysis  │ │   ality    │ │ Assessment │
-   └──────┬─────┘ └──────┬─────┘ └──────┬─────┘
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-              ┌─────────────────────┐
-              │    Poultry          │
-              │ Intelligence Engine │
-              └──────────┬──────────┘
-                         │
-        ┌────────────────┼────────────────┐
-        ▼                ▼                ▼
- ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
- │    Criminal  │ │    Royalty   │ │    Thought   │
- │   Profile    │ │   Detector   │ │  Translator  │
- └──────┬───────┘ └──────┬───────┘ └──────┬───────┘
-        │                │                │
-        └────────────────┼────────────────┘
-                         ▼
-              ┌─────────────────────┐
-              │   Future Prediction │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │    Final Chicken    │
-              │      Report         │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │    Uselessness      │
-              │      Score™         │
-              └──────────┬──────────┘
-                         │
-                         ▼
-                  99.999% USELESS
+*Add caption explaining your workflow*                  \
+<img width="131" height="347" alt="image" src="https://github.com/user-attachments/assets/18e12c87-1d76-4e7e-91b5-b1048a278a40" />
 
 For Hardware:
 
