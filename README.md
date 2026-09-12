@@ -26,11 +26,15 @@ ChickenOS AI is an unnecessarily advanced poultry intelligence system that uses 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Languages: Python, JavaScript, HTML, CSS
-- Frontend: React + Vite
-- Backend: Python + FastAPI
--Development Tools: VS Code, Git, GitHub
-
+-Technology
+Framework: TanStack Start v1 + React 19 + TypeScript, with file-based routing via src/routes.
+Build tool: Vite 7.
+Styling: Tailwind CSS v4 with custom oklch design tokens, glassmorphism panels, neon glows, and CSS animations.
+Fonts: Chakra Petch for headings + IBM Plex Mono for terminal/mono text.
+**Icons**: Lucide React.
+Toasts: Sonner.
+Persistence: Browser localStorage for the leaderboard and analysis count.
+Image handling: Native FileReader for local image previews.
 For Hardware:
 No special hardware is required.
 
